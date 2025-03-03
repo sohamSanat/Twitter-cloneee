@@ -9,7 +9,7 @@ from tkinter import ttk
 
 # !setting up atlas
 
-url = "mongodb+srv://hsohamsanat:1234@cluster0.gu2hb3z.mongodb.net/?retryWrites=true&w=majority"
+url = "THIS LINK CONNECTS THE APP TO ATLAS' SERVER MAKE SURE TO GET YOUR OWN LINK"
 
 
 cluster = MongoClient(url)
